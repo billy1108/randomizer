@@ -1,0 +1,2 @@
+# Randomizer
+Application for Slack
